@@ -2,4 +2,5 @@
 
 Aqui vamos falar sobre a ferramenta Docker
 
-[Instalacao](comandos-instalacao/instalacao.md) 
+[Instalacao](instalacao.md) 
+[Erros](erros.md)
