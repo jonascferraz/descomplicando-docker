@@ -31,3 +31,45 @@ O resultado sera a imagem abaixo
 
 [Clique Aqui](imagens/docker-visualicao-imagens.jpg)
 
+Após a consulta nas imagens nos trouxe 5 colunas 
+
+| Coluna | Definicao |
+| ------ | ------ |
+| REPOSITORY | Nome da imagem |
+| TAG | A versão da imagem |
+| IMAGE ID | Identificacao da imagem |
+| CREATED | Quando ela foi criada |
+| SIZE | Tamanho da imagem |
+
+-------
+
+**OBS:** Quando executamos o comando "docker container run hello world" ele criou o container, imprimiu a mensagem na tela e depois o container foi finalizado. (Fez a tarefa que era imprimir a mensagem e foi finalizado).
+
+Para verificar quais container estão em execução ou não foram finalizados é só digitar:
+
+```sh
+docker container ls
+```
+
+O resultado sera a imagem abaixo (Nesse caso não temos nenhum container em execucao)
+
+[Clique Aqui](imagens/verificacao-container-execucao.jpg)
+
+Ap´os a verificação nos trouxe 7 colunas
+
+| Coluna | Definicao |
+| ------ | ------ |
+| CONTAINER ID | Identificacao unica do container |
+| IMAGE | A imagem que foi utilizada para a execucao do container |
+| COMMAND | O comando em execucao |
+| CREATED | Quando ele foi criado |
+| STATUS | O Seu status atual |
+| PORTS | A porta do Container e do host que esse container utiliza |
+| NAMES | O Nome do container
+
+------
+
+## Utilizando o parametro -a
+
+
+
