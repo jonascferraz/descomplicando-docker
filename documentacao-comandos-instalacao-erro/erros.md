@@ -11,6 +11,9 @@ docker: error during connect: In the default daemon configuration on Windows, th
 - No "Ativar e desativar recursos do Windows" habilite o Hyper-V
 
 [Clique Aqui](imagens/hyper-v.jpg)
+
 **OBS: So funciona Win 10Pro/Enterprise e em alguns casos tem que habilitar o recurso de virtualização na BIOS**
+
 Após habilitar na BIOS verificar no "Ativar e desativar recursos do Windows" as informações passadas na imagem abaixo
+
 [Clique Aqui](imagens/hyper-v1.jpg)
