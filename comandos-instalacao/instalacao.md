@@ -4,4 +4,4 @@
 
 1 - Executar o instalador e ceritificar que a opção **Usar SQL 2 em vez de Hyper-V na página de configuração esteja selecionada ou não, dependendo de sua escolha de back-end**
 
-[Primeira Tela](imagens/instalacao1.jpg)
+[Clique Aqui!!](imagens/instalacao1.jpg)
